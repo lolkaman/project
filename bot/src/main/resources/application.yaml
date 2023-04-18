@@ -10,4 +10,4 @@ springdoc:
   paths-to-match: /**
 bot:
   token: "6107835186:AAG0PNlIxVSKK5ERh_v5Q6GutVlYEfVotuU"
-  name: TinkoffCoursebot
+  name: Tinkoffbot
