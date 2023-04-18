@@ -4,7 +4,7 @@
 
 create table chat_link(
     chat_id bigint not null references "chat" (id),
-    link_id bigint not null REFERENCES "link" (id),
+    link_id bigint not null REFERENCES "links" (id),
     PRIMARY KEY (chat_id,link_id)
 )
 
