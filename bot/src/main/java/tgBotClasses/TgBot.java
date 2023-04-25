@@ -15,7 +15,7 @@ import org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpre
 import java.util.List;
 
 public class TgBot {
-    TelegramBot bot = new TelegramBot("6107835186:AAG0PNlIxVSKK5ERh_v5Q6GutVlYEfVotuU");
+    TelegramBot bot = new TelegramBot("6201413186:AAGMfU2EOz8dBCRjRd0FqSGsFXu96gOi6kA");
     public void startBot(){
         TgBotMethods tgBotMethods = new TgBotMethods();
         tgBotMethods.setBot(bot);
